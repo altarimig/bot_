@@ -2,7 +2,7 @@ from flask import Flask, request, json
 from bot import Bot
 
 PAGE_ACCESS_TOKEN = 'EAAJqrGBZBIDkBAEgb5I4FOVDoRRpeSSHOSaisXyn9QGCmx2H2xTorzDW6P1zAluM1FKsHrZBw2BZB7GT1RTbFWWl8GjLP8n94hgfSoCcv9VuvKCttZC0PF194eTCxekU11zBHGbkzzHkZBjuBVb2ojepDZA6ZAgAixkegZAbuhhLDQZDZD'
-GREETINGS = ['hola', 'hola que tal', 'buenas', 'lindo dia']
+GREETINGS = ['hola', 'hola que tal', 'buenas', 'ayuda']
 
 app = Flask(__name__)
 
