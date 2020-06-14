@@ -1,7 +1,7 @@
 from flask import Flask, request, json
 from bot import Bot
 
-PAGE_ACCESS_TOKEN = 'EAAJ4csJ8PXEBANj9voaHgoq8q9FtP7XuXexQgYCkxk1aQecZApXZBQAfIOfAEkkFxdWUmWy7g4eYpW94nK4kQguESOYmzqss2uwCc19M830hLV7hJjy1hZAd6jv34iCAPSHXOZBEbSjfUvjWerZAqUsddv6d0E55lQux2wEklQTZA351P7fKt3'
+PAGE_ACCESS_TOKEN = 'EAAJqrGBZBIDkBAEgb5I4FOVDoRRpeSSHOSaisXyn9QGCmx2H2xTorzDW6P1zAluM1FKsHrZBw2BZB7GT1RTbFWWl8GjLP8n94hgfSoCcv9VuvKCttZC0PF194eTCxekU11zBHGbkzzHkZBjuBVb2ojepDZA6ZAgAixkegZAbuhhLDQZDZD'
 GREETINGS = ['hola', 'buenas', 'lindo dia']
 
 app = Flask(__name__)
