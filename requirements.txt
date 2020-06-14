@@ -5,3 +5,4 @@ pydocstyle
 psycopg2
 flask
 python-dotenv
+requests
